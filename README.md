@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="https://github.com/yuvalmar16">Yuval Margolin</a> | 
   <a href="https://github.com/RavidGersh59">Ravid Gersh</a> | 
-  <a href="https://github.com/yourlink-here">Ran Sela</a> | 
+  <a href="https://github.com/ransela033">Ran Sela</a> | 
   <a href="https://github.com/yourlink-here">Yarden Nahum</a>
 </p>
 
