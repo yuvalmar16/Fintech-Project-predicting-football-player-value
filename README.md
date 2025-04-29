@@ -114,7 +114,7 @@ By using FIFA datasets from 2015 to 2023, we developed a machine learning pipeli
 
 - [Yuval Margolin](https://github.com/yuvalmar16)
 - [Ravid Gersh](https://github.com/RavidGersh59)
-- Ran Sela
+- [Ran Sela](https://github.com/Ransela033)
 - Yarden Nahum
 
 ---
